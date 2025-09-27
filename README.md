@@ -1,4 +1,25 @@
 # 👋 Olá, eu sou Jéssica Thaís. 
-✨ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontra meus projetos, ideias e aprendizados. 
-> 💡 *"O sucesso de uma equipe não está na força individual, mas na união e colaboração de todos para alcançar um objetivo comum."* 
---- ## 🌸 Minhas redes sociais <p align="center"> <a href="https://www.instagram.com/ehajeeh/"> <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="https://www.facebook.com/jessica.thais.946626"> <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/> </a> <a href="https://www.linkedin.com/in/baccarinha/"> <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> </p>
+
+✨ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontra meus projetos, ideias e aprendizados.  
+
+> 💡 *"O sucesso de uma equipe não está na força individual, mas na união e colaboração de todos para alcançar um objetivo comum."*  
+
+---
+
+## 🌸 Minhas redes sociais  
+
+<div align="center" style="background-color:rgba(255, 20, 147, 0.3); padding: 20px; border-radius: 15px;">
+
+<a href="https://www.instagram.com/ehajeeh/">
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>  
+
+<a href="https://www.facebook.com/jessica.thais.946626">
+  <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>  
+
+<a href="https://www.linkedin.com/in/baccarinha/">
+  <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>  
+
+</div>
