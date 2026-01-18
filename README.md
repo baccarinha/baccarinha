@@ -22,4 +22,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>  
 
+<a href="https://baccarinha.github.io/curriculo/" target="_blank">
+  <img src="https://img.shields.io/badge/Currículo_HTML-FF5FA2?style=for-the-badge&logo=github&logoColor=white" alt="Currículo HTML"/>
+</a>
+
 </div>
